@@ -1,4 +1,4 @@
-package Booking.basic_algorithm;
+
 
 public class Traffic_Light_Controlled_Intersection_1279 {
 

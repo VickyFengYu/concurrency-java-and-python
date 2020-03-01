@@ -1,4 +1,4 @@
-package Booking.basic_algorithm;
+
 
 import java.util.concurrent.Semaphore;
 
