@@ -7,3 +7,5 @@ Concurrency Java and Python
 - [python-lock-and-with](https://vickyfengyu.github.io/vicky.github.io/python-lock-and-with)
 
 - [java-reentrantLock-vs-synchronized](https://vickyfengyu.github.io/vicky.github.io/java-reentrantLock-vs-synchronized)
+
+- [python-barrier](https://vickyfengyu.github.io/vicky.github.io/python-barrier)
