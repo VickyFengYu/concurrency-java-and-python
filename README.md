@@ -2,10 +2,10 @@ Concurrency Java and Python
 ===================
 
 
-- [java-python-semaphore](https://vickyfengyu.github.io/vicky.github.io/java-python-semaphore)
+- [java-python-semaphore](https://vickyfengyu.github.io/java-python-semaphore)
 
-- [python-lock-and-with](https://vickyfengyu.github.io/vicky.github.io/python-lock-and-with)
+- [python-lock-and-with](https://vickyfengyu.github.io/python-lock-and-with)
 
-- [java-reentrantLock-vs-synchronized](https://vickyfengyu.github.io/vicky.github.io/java-reentrantLock-vs-synchronized)
+- [java-reentrantLock-vs-synchronized](https://vickyfengyu.github.io/java-reentrantLock-vs-synchronized)
 
-- [python-barrier](https://vickyfengyu.github.io/vicky.github.io/python-barrier)
+- [python-barrier](https://vickyfengyu.github.io/python-barrier)
